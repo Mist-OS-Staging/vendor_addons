@@ -18,6 +18,9 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     vendor/addons/overlay/common/packages/apps/Launcher3
 
+# Bootanimation
+include vendor/addons/prebuilt/bootanimation/bootanimation.mk
+
 
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \

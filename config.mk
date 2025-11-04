@@ -297,29 +297,6 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
-# Power Menu Themes
-PRODUCT_PACKAGES += \
-    PowerCyberPunk \
-    PowerDuoline \
-    PowerFluid \
-    PowerIOS \
-    PowerLayers
-
-# Progress Bar Themes
-PRODUCT_PACKAGES += \
-    PGB_BlockyThumb \
-    PGB_MinimalThumb \
-    PGB_OutlineThumb \
-    PGB_Shishu
-
-# Notification Themes
-PRODUCT_PACKAGES += \
-    NotifCyberPunk \
-    NotifDuoline \
-    NotifFluid \
-    NotifIOS \
-    NotifLayers
-
 # Signal Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
